@@ -1,2 +1,0 @@
-# ProjetoDSM
-android studio
